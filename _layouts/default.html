@@ -6,10 +6,29 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no">	
 	<link rel="stylesheet" href="{{site.baseurl}}/style.css">
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans|Alegreya+Sans+SC:100,400,700" rel="stylesheet">
+    <!--[if IE]>
+    	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 </head>
 	<body>
-		<div class="main-content">
+		<div class="main-container">
+			<nav>
+               <a href="{{site.baseurl}}/" class="logo">
+                   <img src="{{site.baseurl}}/img/logo-stn.svg" alt="logo santuan">
+               </a>
+               <div class="main-navigation">
+                   <a class="nav-intro" href="{{site.baseurl}}/">intro</a>
+                   <a class="nav-proyecto" href="{{site.baseurl}}/proyectos">proyectos</a>
+                   <a class="nav-contacto" href="{{site.baseurl}}/contacto">contacto</a>
+               </div>  
+           </nav>
 			{{content}}
+			<footer>
+			    <small>&#xA9; 2017 santuan</small>
+			</footer>
 		</div>
 	</body>
+	<script src="{{site.baseurl}}/js/rAF.js"></script>
+	<script src="{{site.baseurl}}/js/animated-header.js"></script>
 </html>

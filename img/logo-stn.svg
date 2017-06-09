@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 276.7 71.3" style="enable-background:new 0 0 276.7 71.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#333333;stroke-width:3.8422;stroke-miterlimit:10;}
+	svg * {
+		transition: all .8s ease-out, opacity .8s ease-out;
+	}
+	@media all and (max-width: 300px) {
+		#letter-2,
+		#letter-3,
+		#letter-5,
+		#letter-6 {
+		opacity: 0;
+		}
+
+		#letter-1 {
+			-webkit-transform: translate3d(50px,0,0);
+			transform: translate3d(50px,0,0);
+		}
+
+		#letter-4 {
+			-webkit-transform: translate3d(-15px,0,0);
+			transform: translate3d(-15px,0,0);
+		}
+
+		#letter-7 {
+			-webkit-transform: translate3d(-80px,0,0);
+			transform: translate3d(-80px,0,0);
+		}
+	}
+</style>
+<g id="santuan">
+	<g id="letter-7">
+		<line class="st0" x1="232.9" y1="15.6" x2="240.2" y2="15.6"/>
+		<line class="st0" x1="232.9" y1="22.9" x2="240.3" y2="23"/>
+		<line class="st0" x1="232.9" y1="29.6" x2="240.3" y2="29.6"/>
+		<line class="st0" x1="234.7" y1="58.4" x2="234.7" y2="15.3"/>
+		<line class="st0" x1="256.3" y1="58.4" x2="256.3" y2="37.2"/>
+		<line class="st0" x1="263.6" y1="58.1" x2="263.6" y2="36.8"/>
+		<line class="st0" x1="249.3" y1="58.4" x2="249.3" y2="37.2"/>
+		<path class="st0" d="M240.2,15.6c16.7,0,23.4,8.8,23.4,21.3"/>
+		<path class="st0" d="M249.3,37.2c0-7.6-4.7-7.6-9-7.6"/>
+		<path class="st0" d="M256.3,37.2c0-7-1.7-14.2-16-14.2"/>
+	</g>
+	<g id="letter-6">
+		<line class="st0" x1="47.1" y1="16" x2="76.7" y2="16"/>
+		<line class="st0" x1="74.7" y1="15.7" x2="74.7" y2="30.1"/>
+		<path class="st0" d="M47.5,58.3L47.5,58.3c0-15.8,13.1-28.6,29.2-28.6"/>
+		<path class="st0" d="M76.7,37.4L76.7,37.4c-11.9,0-21.6,9.4-21.6,21l0-0.1"/>
+		<path class="st0" d="M62.5,58.3c0-7.3,6.2-13.6,14.2-13.6"/>
+	</g>
+	<g id="letter-5">
+		<line class="st0" x1="192.6" y1="56.6" x2="185.3" y2="56.6"/>
+		<line class="st0" x1="192.7" y1="49.3" x2="185.3" y2="49.3"/>
+		<line class="st0" x1="192.7" y1="42.7" x2="185.3" y2="42.7"/>
+		<line class="st0" x1="190.8" y1="13.8" x2="190.8" y2="57"/>
+		<line class="st0" x1="169.2" y1="13.8" x2="169.2" y2="35.1"/>
+		<line class="st0" x1="161.9" y1="14.2" x2="161.9" y2="35.4"/>
+		<line class="st0" x1="176.2" y1="13.8" x2="176.2" y2="35.1"/>
+		<path class="st0" d="M185.3,56.6c-16.7,0-23.4-8.8-23.4-21.3"/>
+		<path class="st0" d="M176.2,35.1c0,7.6,4.7,7.6,9,7.6"/>
+		<path class="st0" d="M169.2,35.1c0,7,1.7,14.2,16,14.2"/>
+	</g>
+	<g id="letter-4">
+		<line class="st0" x1="118.1" y1="16" x2="156.6" y2="16"/>
+		<g>
+			<line class="st0" x1="137.3" y1="16" x2="137.3" y2="58.4"/>
+			<line class="st0" x1="131.2" y1="16" x2="131.2" y2="58.2"/>
+			<line class="st0" x1="143.4" y1="16" x2="143.4" y2="58.2"/>
+		</g>
+	</g>
+	<g id="letter-3">
+		<line class="st0" x1="83.9" y1="58.4" x2="83.9" y2="15.3"/>
+		<line class="st0" x1="82.1" y1="15.6" x2="89.4" y2="15.6"/>
+		<line class="st0" x1="82" y1="22.9" x2="89.4" y2="23"/>
+		<line class="st0" x1="82" y1="29.6" x2="89.4" y2="29.6"/>
+		<line class="st0" x1="105.5" y1="58.4" x2="105.5" y2="37.2"/>
+		<line class="st0" x1="112.8" y1="58.1" x2="112.8" y2="36.8"/>
+		<line class="st0" x1="98.5" y1="58.4" x2="98.5" y2="37.2"/>
+		<path class="st0" d="M89.4,15.6c16.7,0,23.4,8.8,23.4,21.3"/>
+		<path class="st0" d="M98.5,37.2c0-7.6-4.7-7.6-9-7.6"/>
+		<path class="st0" d="M105.5,37.2c0-7-1.7-14.2-16-14.2"/>
+	</g>
+	<g id="letter-2">
+		<line class="st0" x1="225.6" y1="15.7" x2="225.6" y2="30.1"/>
+		<line class="st0" x1="198" y1="16" x2="227.5" y2="16"/>
+		<path class="st0" d="M198.3,58.3L198.3,58.3c0-15.8,13.1-28.6,29.2-28.6"/>
+		<path class="st0" d="M227.5,37.4L227.5,37.4c-11.9,0-21.6,9.4-21.6,21l0-0.1"/>
+		<path class="st0" d="M213.3,58.3c0-7.3,6.2-13.6,14.2-13.6"/>
+	</g>
+	<g id="letter-1">
+		<line class="st0" x1="10.9" y1="16" x2="41.5" y2="16"/>
+		<line class="st0" x1="12.3" y1="56.6" x2="41.8" y2="56.6"/>
+		<line class="st0" x1="40.1" y1="57.8" x2="40.1" y2="43.4"/>
+		<path class="st0" d="M12.6,15.7L12.6,15.7c0,15.8,13.1,28.6,29.2,28.6"/>
+		<path class="st0" d="M41.8,36.7L41.8,36.7c-11.9,0-21.6-9.4-21.6-21l0,0.1"/>
+		<path class="st0" d="M27.6,15.7c0,7.3,6.2,13.6,14.2,13.6"/>
+	</g>
+</g>
+</svg>
